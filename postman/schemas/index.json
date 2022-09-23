@@ -1,7 +1,7 @@
 {
     "openapi": "3.0.1",
     "info": {
-        "title": "Echo API 123",
+        "title": "Echo API 1234",
         "version": "1.0"
     },
     "servers": [
