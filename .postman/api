@@ -13,3 +13,4 @@ files[] = {"path":"index5e8faa4d-2c8b-479b-a778-5635cacbfcd7.json","metaData":{}
 
 [relations.apiDefinition.metaData]
 type = openapi:3
+rootFiles[] = index5e8faa4d-2c8b-479b-a778-5635cacbfcd7.json
